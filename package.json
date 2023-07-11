@@ -1,0 +1,14 @@
+{
+  "name": "functional_js",
+  "version": "1.0.0",
+  "description": "A set of functional data structures",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
